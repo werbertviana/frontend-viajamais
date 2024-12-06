@@ -1,0 +1,276 @@
+{
+    "cidades": [
+        {
+            "_id": 1,
+            "cidade": 
+                {
+                    "nome": "Camaçari",
+                    "estado": "Bahia"
+                },
+            "fav": false,
+            "pontos_turisticos": 
+                [
+                    "Praia Guarajuba",
+                    "Praia da Espera"
+                ],
+            "descricao": "Camaçari disputa com outras lindas praias a atenção dos turistas ao longo do litoral baiano, que chega a 1.100 km de extensão (de longe o maior do Brasil!). A região conquista pela natureza, já que abriga as unidades de conservação APA Rio Capivara, Parque das Dunas de Abrantes, a APA Lagoas de Guarajuba e a APA Joanes-Ipitanga.",
+            "blobs": [
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/camaçari/01.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/camaçari/02.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/camaçari/03.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/camaçari/04.jpg"
+                        }
+                    ]
+            
+        },
+        {
+            "_id": 2,
+            "cidade": 
+                {
+                    "nome": "Bonito",
+                    "estado": "Mato Grosso do Sul"
+                },
+            "fav": false,
+            "pontos_turisticos": 
+                [
+                    "Gruta do Lago Azul",
+                    "Flutuação no Rio da Prata"
+                ],
+            "descricao": "Bonito tem muito a oferecer e o que não falta neste destino são lindas paisagens. As atividades de mergulho do estilo apneia (com snorkle) são as mais famosas. Bonito também possui diversas atividades radicais e também conta com arvorismo, rapel, boia cross, tirolesa, cachoeiras e entre outras atividades imperdíveis.",
+            "blobs": [
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/bonito/01.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/bonito/02.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/bonito/03.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/bonito/04.jpg"
+                        }
+                    ]
+            
+        },
+        {
+            "_id": 3,
+            "cidade": 
+                {
+                    "nome": "Fernando de Noronha",
+                    "estado": "Pernambuco"
+                },
+            "fav": false,
+            "pontos_turisticos": 
+                [
+                    "Baía do Sancho",
+                    "Mirante dos Golfinhos"
+                ],
+            "descricao": "O Arquipélago de Fernando de Noronha é encantador, visitar esse paraíso brasileiro é uma experiência incrível de contato com a natureza. Além das belíssimas praias de areia branca e águas cristalinas, Fernando de Noronha possui mirantes e trilhas ecológicas rodeados por paisagens e aves que são um encanto a parte.",
+            "blobs": [
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/fernando/01.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/fernando/02.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/fernando/03.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/fernando/04.jpg"
+                        }
+                    ]
+            
+        },
+        {
+            "_id": 4,
+            "cidade": 
+                {
+                    "nome": "Visconde de Mauá",
+                    "estado": "Rio de Janeiro"
+                },
+            "fav": false,
+            "pontos_turisticos": 
+                [
+                    "Cachoeira do Escorrega",
+                    "Cachoeira Véu de Noiva"
+                ],
+            "descricao": "Visconde de Mauá é uma charmosa região localizada na Serra da Mantiqueira. O destino é famoso por suas cachoeiras, trilhas em meio à mata atlântica e vilarejos pitorescos, como Maringá e Mauá. Além de ser um ótimo local para quem busca ecoturismo, Visconde de Mauá também oferece uma rica gastronomia e uma atmosfera acolhedora, ideal para quem deseja relaxar em meio à montanha, com opções de hospedagem rústicas e aconchegantes.",
+            "blobs": [
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/visconde/01.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/visconde/02.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/visconde/03.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/visconde/04.jpg"
+                        }
+                    ]
+            
+        },
+        {
+            "_id": 5,
+            "cidade": 
+                {
+                    "nome": "Monte Verde",
+                    "estado": "Minas Gerais"
+                },
+            "fav": false,
+            "pontos_turisticos": 
+                [
+                    "Pico do Selado",
+                    "Pedra Partida"
+                ],
+            "descricao": "Localizado no município de Camanducaia, Minas Gerais, o charmoso distrito de Monte Verde encanta seus visitantes pelo contato com a natureza, tranquilidade, tradições gastronômicas, ecoturismo e a atmosfera com raízes europeias. Também conhecida como “Suíça Mineira”, Monte Verde é um típico destino de inverno e de reconhecimento nacional, afinal, a cidade recebeu o título de “Melhor destino de inverno no Brasil” e o de “Cidade mais romântica”, em 2008 e 2009 respectivamente.",
+            "blobs": [
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/monte/01.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/monte/02.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/monte/03.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/monte/04.jpg"
+                        }
+                    ]
+            
+        },
+        {
+            "_id": 6,
+            "cidade": 
+                {
+                    "nome": "Foz do Iguaçu",
+                    "estado": "Paraná"
+                },
+            "fav": false,
+            "pontos_turisticos": 
+                [
+                    "Cataratas do Iguaçu",
+                    "Usina Hidrelétrica de Itaipu"
+                ],
+            "descricao": "Foz do Iguaçu oferece uma conexão direta com a Mata Atlântica. Além de suas belezas naturais, Foz do Iguaçu é um importante destino de ecoturismo, com atividades como trilhas, passeios de barco e observação de fauna e flora. A cidade também é conhecida por sua rica cultura, que mistura influências brasileiras, argentinas e paraguaias.",
+            "blobs": [
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/foz/01.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/foz/02.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/foz/03.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/foz/04.jpg"
+                        }
+                    ]
+            
+        },
+        {
+            "_id": 7,
+            "cidade": 
+                {
+                    "nome": "Jaguariaíva",
+                    "estado": "Paraná"
+                },
+            "fav": false,
+            "pontos_turisticos": 
+                [
+                    "Cachoeira da Laje",
+                    "Parque Estadual de Vila Velha"
+                ],
+            "descricao": "Jaguariaíva é uma cidade localizada no interior do estado do Paraná, rodeada por belas paisagens naturais e áreas de preservação ambiental. Conhecida por sua tranquilidade e clima ameno, a cidade é um destino popular para quem busca ecoturismo e contato com a natureza. Além disso, a cidade tem uma rica história ligada à indústria madeireira e à cultura rural.",
+            "blobs": [
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/jaguariaiva/01.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/jaguariaiva/02.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/jaguariaiva/03.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/jaguariaiva/04.jpg"
+                        }
+                    ]
+            
+        },
+        {
+            "_id": 8,
+            "cidade": 
+                {
+                    "nome": "Natal",
+                    "estado": "Rio Grande do Norte"
+                },
+            "fav": false,
+            "pontos_turisticos": 
+                [
+                    "Forte dos Reis Magos",
+                    "Praia de Ponta Negra"
+                ],
+            "descricao": "Natal é a capital do Rio Grande do Norte e um dos principais destinos turísticos do Brasil, conhecida por suas praias paradisíacas, clima quente e acolhedor. Além de suas atrações naturais, Natal é rica em história, com locais como o Forte dos Reis Magos e a Igreja de São José de Mipibu. Os turistas também podem aproveitar passeios de buggy pelas dunas e explorar as várias opções de gastronomia local, que incluem pratos à base de frutos do mar.",
+            "blobs": [
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/natal/01.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/natal/02.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/natal/03.jpg"
+                        },
+                        {
+                            "type": "image",
+                            "file": "lib/recursos/imagens/cidades/natal/04.jpg"
+                        }
+                    ]
+            
+        }               
+    ]
+}

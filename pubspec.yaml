@@ -1,0 +1,40 @@
+name: viaja_mais
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.0.3  # Movido para dependencies
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/recursos/json/feed.json
+    - lib/recursos/imagens/logo.png
+    - lib/recursos/imagens/cidades/camaçari/
+    - lib/recursos/imagens/cidades/bonito/
+    - lib/recursos/imagens/cidades/fernando/
+    - lib/recursos/imagens/cidades/monte/
+    - lib/recursos/imagens/cidades/visconde/
+    - lib/recursos/imagens/cidades/natal/
+    - lib/recursos/imagens/cidades/jaguariaiva/
+    - lib/recursos/imagens/cidades/jalapao/
+    - lib/recursos/imagens/cidades/foz/
+    - lib/recursos/imagens/cidades/alter/
+    - lib/recursos/imagens/cidades/petropolis/
+    - lib/recursos/imagens/cidades/visconde/
+    - lib/recursos/imagens/cidades/brotas/
