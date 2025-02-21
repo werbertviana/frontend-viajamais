@@ -13,5 +13,5 @@ npm install
 ```
 ### 2. Rode o App em Flutter
 ```bash
-npm install
+flutter run
 ```
