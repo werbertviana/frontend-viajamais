@@ -2,7 +2,7 @@
 
 # Frontend - ViajaMais
 
-Este repositório contém o frontend de um aplicativo de destinos turísticos, desenvolvido com **Node.js**, **Prisma** (ORM) e **Express** (service).
+Este repositório contém o frontend de um aplicativo de destinos turísticos, desenvolvido em **Flutter**.
 
 ## 🚀 Passo a Passo para Execução
 
